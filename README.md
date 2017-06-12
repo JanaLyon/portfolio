@@ -1,2 +1,2 @@
 # portfolio
-A personal portfolio of work
+A personal portfolio of front-end work.
